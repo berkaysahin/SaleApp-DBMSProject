@@ -10,13 +10,13 @@
   - C#
   - Microsoft SQL Server
 
+![preview](GithubReadmeDocs/App.gif)
+
 ## Homework Document
 
 Sakarya University - Computer Engineering - Database Management Systems Course Homework 3
 
 Berkay Şahin - https://github.com/berkaysahin - https://www.linkedin.com/in/berkaysahin3/ - iletisim@berkaysahin.info
-
-![preview](GithubReadmeDocs/App.gif)
 
 ![preview](GithubReadmeDocs/Homework3Document1.jpg)
 ![preview](GithubReadmeDocs/Homework3Document2.jpg)
