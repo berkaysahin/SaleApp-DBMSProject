@@ -1,0 +1,11 @@
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\bin\Debug\Entities.dll
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\bin\Debug\Entities.pdb
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\obj\Debug\Entities.dll
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\obj\Debug\Entities.pdb
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\bin\Debug\Entities.dll
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\bin\Debug\Entities.pdb
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\obj\Debug\Entities.dll
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\Entities\obj\Debug\Entities.pdb

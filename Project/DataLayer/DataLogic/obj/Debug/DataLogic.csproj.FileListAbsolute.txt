@@ -1,0 +1,17 @@
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\bin\Debug\Entities.dll
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\bin\Debug\Entities.pdb
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Berkay\Desktop\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.pdb
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\bin\Debug\DataLogic.dll
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\bin\Debug\DataLogic.pdb
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\bin\Debug\Entities.dll
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\bin\Debug\Entities.pdb
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.csprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.csproj.CopyComplete
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.dll
+C:\Users\Berkay\Desktop\Proje\Veritabanı Proje Ödevi\UygulamaProjesi\DataLayer\DataLogic\obj\Debug\DataLogic.pdb
